@@ -1,2 +1,3 @@
-# Java
-Projetos java feitos durante o técnico em informática
+# Codificador
+
+Codificador de palavras simples, lelo método de substituição, feito na linguagem java
